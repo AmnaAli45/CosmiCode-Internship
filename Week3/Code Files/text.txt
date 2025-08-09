@@ -1,0 +1,6 @@
+My name is Amna Ali.  
+I am currently working as an intern to improve my programming skills.  
+I enjoy learning new technologies and solving challenging problems.  
+My main areas of interest are Python, data analysis, and software development.  
+In my free time, I like reading tech blogs, experimenting with code, and learning about artificial intelligence.  
+My goal during this internship is to gain practical experience and contribute meaningfully to projects.
